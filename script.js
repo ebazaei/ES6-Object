@@ -1,23 +1,30 @@
  
- //Test 1
+//  //Test 1
  
- let tree = ""
- tree = {
-    height : 10, 
-    color: 'Green', 
-    grouw(){
-        this.height += 2;
-    }
-};
+//  let tree = ""
+//  tree = {
+//     height : 10, 
+//     color: 'Green', 
+//     grouw(){
+//         this.height += 2;
+//     }
+// };
 
-console.log(tree.height);//10
-tree.grouw();
-console.log(tree.height);// 12= 10 + 2(grouw)
-tree.grouw();
-console.log(tree.height);// 14= 12(First grouw+height) + 2(grouw)
+// console.log(tree.height);//10
+// tree.grouw();
+// console.log(tree.height);// 12= 10 + 2(grouw)
+// tree.grouw();
+// console.log(tree.height);// 14= 12(First grouw+height) + 2(grouw)
 
 
-//Test 2
+// //Test 2
+// let name = 'Ehsan';
+// let age = 40;
+// let person = {name,age};
+// console.log(person.name); //Ehsan
+
+//test3
+
 
 
 
