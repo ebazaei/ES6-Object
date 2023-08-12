@@ -18,12 +18,12 @@
 
 
 // //Test 2
-// let name = 'Ehsan';
-// let age = 40;
-// let person = {name,age};
-// console.log(person.name); //Ehsan
+let name = 'Ehsan';
+let age = 40;
+let person = {name,age};
+console.log(person.name); //Ehsan
 
-//test3
+
 
 
 
